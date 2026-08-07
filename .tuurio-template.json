@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_vue3",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "vue",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "4bbe167a1bd5e22b5bf6418f16a773dce6a630bf08a34da2f940e39fd3fc6241"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "c6d0c9b09d9709dca2158f175b7063d27def6abeac9fccc1de9f1a299aae231d"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8"
+    },
+    {
+      "path": ".stackblitzrc",
+      "sha256": "f821aad5c3129fad9f8691d352883d3cc515e12d873739c1a0011787d3a9f63d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "2402927e604199b7d825f14f8fd659e80595b119a8c8aba5607ad04c8946030c"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f788aa7b8dc1559dc1546150b075a17bcff0771c162d39d4b6d8c7b50ca50083"
+    },
+    {
+      "path": "index.html",
+      "sha256": "9d70fd1c09678dc8c063c585c9ccd67e51e16ec33891aa3a1388505b96af2c1b"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "7c6716c8e14646d2facc9838af0d6875fca0620d586126230258dd343a974749"
+    },
+    {
+      "path": "package.json",
+      "sha256": "b6f364767430b41b6b7454f2e91d2762bf93c113013cf3cd54f3060d30653e91"
+    },
+    {
+      "path": "public/vite.svg",
+      "sha256": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb"
+    },
+    {
+      "path": "src/App.css",
+      "sha256": "aff77a0590daf4d482409b4f1b329896739c44ce57fe6dae0721cf53611dcbb9"
+    },
+    {
+      "path": "src/App.vue",
+      "sha256": "39b89a24537ba6479cd55fb83280db53392967ad7e36dbb884208b091edb03c5"
+    },
+    {
+      "path": "src/assets/vue.svg",
+      "sha256": "5532db34f1c52841881bab8aeca6c3e8d092bd21a689a65f4d8f8cf8041eef9d"
+    },
+    {
+      "path": "src/auth.ts",
+      "sha256": "05ad2b41fed4fcae139cfb30d3f17ffe691e94cabf61bbd47522df5a2e5f7cac"
+    },
+    {
+      "path": "src/components/Card.vue",
+      "sha256": "bc601f258089aff20a587ebc485f04d826abc5df6ad2d082262f04b927907eff"
+    },
+    {
+      "path": "src/components/Feature.vue",
+      "sha256": "5725b4192c07092985a834f9317863bb8c53cfb54fbeadd04a641897b9cc6b48"
+    },
+    {
+      "path": "src/components/LoadingState.vue",
+      "sha256": "82205713f589a6108c36f5a9fdb3e7364f66402ebc213527c0c8d9cbce761cae"
+    },
+    {
+      "path": "src/components/LoginView.vue",
+      "sha256": "2c236cbdf7b6655c17a11a1adfdd23a787e87402c449254c996a021a536a1af6"
+    },
+    {
+      "path": "src/components/Shell.vue",
+      "sha256": "3ba23067a39378720330a0c7a0fa5c3f6a290f30b7ee5213eea66244ea8aadab"
+    },
+    {
+      "path": "src/components/TokenView.vue",
+      "sha256": "5492e9e76a951fe2ed1fd104a320eaa4e9dc128c55ade1d7dc9247b0a0f5f73c"
+    },
+    {
+      "path": "src/composables/useAuth.ts",
+      "sha256": "0ee4c4c12187a4b87acd25ee84979d7d3a4f69b2ff1d47bfa743219d8b0db00b"
+    },
+    {
+      "path": "src/main.ts",
+      "sha256": "3fd100f1ae23c7b7ad8dc88c1e4090143bde83ea50623cce321821350438cf1f"
+    },
+    {
+      "path": "src/router/index.ts",
+      "sha256": "a9a11411927b1473d999b308c82ce24bfa594b2fb8dd20c9f5837211ced7e548"
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "ccd44d20807512de9dc5979958b7e823bf2ee53f980522b83c46721f16f08151"
+    },
+    {
+      "path": "src/views/AuthCallback.vue",
+      "sha256": "fbca7a319de5bf31295cddb69caed94adb8e12022de3896c90d597d2ffad834a"
+    },
+    {
+      "path": "src/views/Home.vue",
+      "sha256": "54bab8fe884abdc5e10ab510a5ac1c13bd84943c5907d2931ebb6806ea084ef0"
+    },
+    {
+      "path": "src/views/LogoutCallback.vue",
+      "sha256": "2f56a51435887ab27aabd6ee3131604ab1d892ea41c2905a1fb3a8fd7c0f76d1"
+    },
+    {
+      "path": "src/views/NotFound.vue",
+      "sha256": "0bb3a13c959d0a430a669c9b9d18081c5fe74bf0ec25b47e38904ef8872ff74f"
+    },
+    {
+      "path": "tsconfig.app.json",
+      "sha256": "f3bf5adb2d545eb1f26194fc628539b6667fc40fab0bd6cca0c680038cef5031"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "sha256": "c3dd0fb522feba3596713f51b95bd53d781d845d24aedbfa2ac093d8b39c5120"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "22966d552a34b1cbd2246e7feaa4c74361c6f38a707144b50dd6c5ec11da10cb"
+    }
+  ]
+}
