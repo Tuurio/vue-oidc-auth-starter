@@ -4,6 +4,8 @@ Vue 3 and Vite authentication starter for Tuurio ID with protected routes and Op
 
 [![Verify template](https://github.com/Tuurio/vue-oidc-auth-starter/actions/workflows/verify.yml/badge.svg)](https://github.com/Tuurio/vue-oidc-auth-starter/actions/workflows/verify.yml)
 
+![Vue OIDC Auth Starter social preview](.github/social-preview.png)
+
 > Generated from [`Tuurio/auth_samples/auth_samples_vue3`](https://github.com/Tuurio/auth_samples/tree/main/auth_samples_vue3). Submit implementation fixes upstream so they are not replaced by the next synchronized release.
 
 ## What you get

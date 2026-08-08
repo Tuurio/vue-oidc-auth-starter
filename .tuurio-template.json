@@ -2,13 +2,21 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_vue3",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "004b674ccf3f1498df84e0c65d302b9007a3b9a6df6f1ddb72500e169ecf910a",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "9296cccdfbd2d27551e82e7d2309d2bcfe83bbeccd16ad1ffb62c7275436cc1d",
   "templateId": "vue",
   "managedFiles": [
     {
       "path": ".env.example",
       "sha256": "4bbe167a1bd5e22b5bf6418f16a773dce6a630bf08a34da2f940e39fd3fc6241"
+    },
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "f1c7d42caaa916dddd9eeaa2f4cfd72453b64a22009ef0287bf424dbf14dd3de"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "f0f25cef9165dde740a9be07eb7eceb4febc14e33eb528aef3ebf15445593674"
     },
     {
       "path": ".github/workflows/verify.yml",
@@ -32,7 +40,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "f788aa7b8dc1559dc1546150b075a17bcff0771c162d39d4b6d8c7b50ca50083"
+      "sha256": "2c65abaa26545d712de96ec7de185eca3d8631270c06718b6b05eb0b0eaa96a1"
     },
     {
       "path": "index.html",
